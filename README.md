@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I am a recent graduate eager to embark on my journ
 - 🌱 I am learning **machine learning algorithms and their applications**.
 - 👯 I am looking to collaborate on **open-source data analytics projects** and **machine learning model development**.
 
-  ##  🚀 Technical Skills
+##  🚀 Technical Skills
 
 - **Programming Languages:** Python, SQL  
 - **Data Analysis:** Pandas, NumPy, Matplotlib, Seaborn, Power BI, Excel  
@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I am a recent graduate eager to embark on my journ
 - **Web Scraping:** BeautifulSoup, Selenium   
 - **Statistical Analysis:** R (basic), Hypothesis Testing  
 
- ## 📂 Projects
+## 📂 Projects
 
 Here are several projects I have undertaken that exemplify my expertise in the field:
 
