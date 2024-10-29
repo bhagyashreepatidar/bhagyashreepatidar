@@ -1,14 +1,19 @@
-## Hi there 👋
+## Hi there 👋I'm Bhagyashree Patidar
 
-<!--
-**bhagyashreepatidar/bhagyashreepatidar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 **Aspiring Data Analyst | Passionate about Data-Driven Solutions**
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm a recent graduate eager to embark on my journey in the field of data analytics. With a strong foundation in **data visualization**, **statistical analysis**, and **Python programming**, I am dedicated to uncovering actionable insights and driving meaningful outcomes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭I’m currently enhancing my skills in **machine learning**, **data preprocessing**, and **exploratory data analysis (EDA)** to help organizations make informed decisions.
+- 🌱 I’m currently learning **Machine learning algorithms and their applications**
+- 👯 I’m looking to collaborate on **Open-source data analytics projects**, **Machine learning model development**
+
+
+
+
+
+
+
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
